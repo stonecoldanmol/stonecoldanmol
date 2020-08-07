@@ -10,4 +10,4 @@
 - ⚡ Fun fact: Ctrl + C and Ctrl + V have saved more lives than Batman and Robin.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=stonecoldanmol&&show_icons=true&title_color=ffffff&icon_color=CE17F2&text_color=0066FE&bg_color=F3D3D3">
+<img src="https://github-readme-stats.vercel.app/api?username=stonecoldanmol&&show_icons=true&title_color=E4E0E5&icon_color=CE17F2&text_color=0066FE&bg_color=F3D3D3">
