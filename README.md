@@ -1,6 +1,6 @@
 ### Namaste,Hola,Hi!  I'm Anmol Sinha!👋
 
-- 🔭 I’m currently working on a few Flutter project.
+- 🔭 I’m currently working on few Flutter projects.
 - 🌱 I’m currently learning Digital Marketing
 - 💬 Ask me about Mobile Technology and Technology in General
 - 📫 How to reach me: >[LinkdIn - Anmol Sinha](https://www.linkedin.com/in/anmol-sinha-1828052a/),
